@@ -23,8 +23,12 @@ L'option principale est "-p" est s'utilise de la façon suivante: "bin/main -p "
 (remplacer auteur1 et auteur2 par des noms d'auteurs, par exemple bin/main -p "Erich Gehlen,Gregor Meyer")
 
 
-### Clean up des executables et des .o
+### Clean up 
+supprimer les executables et les .o
 - executer "make clean" depuis la racine
+
+supprimer les executables, les .o et les données extraites de dblp
+- executer "make cleanall" depuis la racine
 
 ### Pour plus de détails sur la base de donnée utilisée
 -   https://dblp.org/faq/16154937.html
