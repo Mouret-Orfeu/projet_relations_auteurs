@@ -13,7 +13,8 @@ Le chemin auteur-co-auteur le plus court entre Bernd Walter et Hans Uszkoreit es
 - Compiler avec "make doc" dans la racine du projet (dossier main)
 
 ### Compilation
-- Se placer dans la racine, executer la commande "make main"
+- Se placer dans la racine et telecharger dblp.xml avec la commande make Update
+- toujours dans la racine, executer la commande "make main"
 
 ### Execution
 - Executer le fichier "main" dans le dossier bin, avec les options prévues.
