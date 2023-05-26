@@ -1,7 +1,7 @@
 # Projet Relations Auteurs-co-auteurs
 
 ### Principe du projet
-Ce projet vise à donner le plus court chemin auteur-co-auteur entre 2 chercheurs ayant écrit des articles présent dans la base de donnée dblp.
+Ce projet vise à donner le plus court chemin auteur-co-auteur entre 2 chercheurs ayant écrit des articles présents dans la base de donnée dblp.
 
 Par exemple Bernd Walter a écrit un article avec Rudi Studer, et Rudi Studer a écrit un article avec Hans Uszkoreit.
 Bernd Walter n'a pas écrit d'article avec Hans Uszkoreit.
