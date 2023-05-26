@@ -1,0 +1,5 @@
+# Ignore large files
+main/DATA/SerializedStruc.data
+main/DATA/SerializedStrucArticle.data
+main/DATA/SerializedStrucInverse.data
+main/DATA/dblp.xml
