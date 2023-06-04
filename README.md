@@ -1,5 +1,9 @@
 # Projet Relations Auteurs-co-auteurs
 
+### équipe de developpement
+-   Louis Duval
+-   Orfeu Mouret
+
 ### Principe du projet
 Ce projet vise à donner le plus court chemin auteur-co-auteur entre 2 chercheurs ayant écrit des articles présents dans la base de donnée dblp.
 
